@@ -1,4 +1,4 @@
-xexport default function Page() {
+export default function Page() {
   return (
     <div style={{ fontFamily: "system-ui", padding: 24 }}>
       <h1>Analytics</h1>
