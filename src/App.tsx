@@ -7,7 +7,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 import { AuthProvider } from "@/contexts/AuthContext";
 import { ProtectedRoute } from "@/components/ProtectedRoute";
 import Index from "./pages/index.tsx";
-import Index from "./pages/index.tsx";
+
 
 export default function App() {
   return <Index />;
